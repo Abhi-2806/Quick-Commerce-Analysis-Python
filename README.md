@@ -52,11 +52,9 @@ Effective inventory and sales management are critical in the retail sector. This
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+Quick-Commerce-analysis/
 │
 ├── README.md
-├── .gitignore
-├── requirements.txt
 ├── Quick-commerce-Analysis-Report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
@@ -137,21 +135,20 @@ vendor-performance-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/Abhi-2806/Quick-Commerce-Analysis-Python.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
-python scripts/ingestion_db.py
+quick_commerce_data_raw.csv
 ```
 4. Create vendor summary table:
 ```bash
-python scripts/get_vendor_summary.py
+quick_commerce_data_modified_cleaned.csv
 ```
 5. Open and run notebooks:
    - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
-6. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
+   - `notebooks/Quick-Commerce-Analysis.ipynb`
+
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
