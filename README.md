@@ -128,9 +128,9 @@ vendor-performance-analysis/
   - Avg_Delivery_Time
   - Avg_Rating
 
-![Quick-Commerce-Analysis-Dashboard]([KPI.png](https://github.com/Abhi-2806/Quick-Commerce-Analysis-Python/blob/e8298518fff7439fe299e0ecfdd8a403971f1071/images/KPI.png))
+![Quick-Commerce-Analysis-Dashboard](images/KPI.png)
 
-![Quick-Commerce-Analysis-Dashboard]([KPI_Dashboard.png](https://github.com/Abhi-2806/Quick-Commerce-Analysis-Python/blob/e8298518fff7439fe299e0ecfdd8a403971f1071/images/KPI_Dashboard.png))
+![Quick-Commerce-Analysis-Dashboard](images/KPI_Dashboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
